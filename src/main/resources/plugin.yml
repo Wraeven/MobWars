@@ -1,0 +1,4 @@
+name: MobWars
+version: '${project.version}'
+main: me.wraeven.mobwars.MobWars
+api-version: '1.21'
